@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "209332021031",
+    "firebase_url": "https://android-firebase-develop-app.firebaseio.com",
+    "project_id": "android-firebase-develop-app",
+    "storage_bucket": "android-firebase-develop-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209332021031:android:17bff176d66e4a8388eb02",
+        "android_client_info": {
+          "package_name": "shota.suzuki.android_firebase_develop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209332021031-hhtjmh4ecq2tvkf0tg3apegcl6cvl50k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzSfA5Vs6oWxEeAfc41v0lZCAtnSGIWn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209332021031-hhtjmh4ecq2tvkf0tg3apegcl6cvl50k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

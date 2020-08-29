@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">android_firebase_develop_app</string>
+
+    <string name="btn_register">ユーザー登録</string>
+    <string name="btn_login">ログイン</string>
+    <string name="btn_logout">ログアウト</string>
+
+    <string name="edit_email">Email</string>
+    <string name="edit_password">Password</string>
+</resources>
