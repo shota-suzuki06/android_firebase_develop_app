@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "209332021031-imiai3o1hbp2d44tg76d42q83jmv4rth.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shota.suzuki.android_firebase_develop_app",
+            "certificate_hash": "b449d1d75e17160735eea9fbeb5ffeebc47c13ec"
+          }
+        },
+        {
           "client_id": "209332021031-hhtjmh4ecq2tvkf0tg3apegcl6cvl50k.apps.googleusercontent.com",
           "client_type": 3
         }

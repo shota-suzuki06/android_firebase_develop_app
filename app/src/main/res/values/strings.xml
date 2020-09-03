@@ -1,10 +1,42 @@
 <resources>
     <string name="app_name">android_firebase_develop_app</string>
 
+    <!-- button name -->
     <string name="btn_register">ユーザー登録</string>
     <string name="btn_login">ログイン</string>
     <string name="btn_logout">ログアウト</string>
+    <string name="btn_clear">クリア</string>
+    <string name="btn_send">送信</string>
+    <string name="btn_upload">アップロード</string>
+    <string name="btn_download">ダウンロード</string>
+    <string name="btn_plus">＋</string>
+    <string name="btn_minus">－</string>
 
-    <string name="edit_email">Email</string>
-    <string name="edit_password">Password</string>
+    <!-- edit text -->
+    <string name="edit_username">ユーザー名</string>
+    <string name="edit_email">メールアドレス</string>
+    <string name="edit_password">パスワード</string>
+    <string name="edit_confirm_password">確認用パスワード</string>
+
+    <!-- text -->
+    <string name="login_back_text">ログイン画面に戻る</string>
+    <string name="register_next_text">ユーザー登録画面はこちら</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_archi">FIREBASE\nDEVELOP</string>
+    <string name="select_photo">SELECT PHOTO</string>
+    <string name="count_number">0</string>
+
+    <!-- bottom navigation name -->
+    <string name="bottom_dashboard">Dashboard</string>
+    <string name="bottom_storage">Storage</string>
+    <string name="bottom_authentication">Authentication</string>
+
 </resources>

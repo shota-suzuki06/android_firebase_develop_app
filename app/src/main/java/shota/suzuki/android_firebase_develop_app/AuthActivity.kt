@@ -28,6 +28,10 @@ class AuthActivity : AppCompatActivity() {
     private fun setup() {
         title = "Authentication"
 
+        binding.btnNewUserId.setOnClickListener {
+            startActivity( Intent(this, SignActivity::class.java) )
+        }
+
         binding.apply {
           btnRegisterId.setOnClickListener {
               if (editEmailId.text.isNotEmpty() && editPasswordId.text.isNotEmpty()) {
